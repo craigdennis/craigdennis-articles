@@ -1,0 +1,18 @@
+nav {
+  background-color: #2a2a2a;
+  color: white;
+  display: flex;
+  font-size: 1.5em; 
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1.5em;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+}
+
+li {
+  margin-left: 1em;
+}
